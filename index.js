@@ -7,7 +7,7 @@ const { join } = require("path");
 const { TOKEN, PREFIX } = require("./util/PreobotUtil");
 const client = new Client({ disableMentions: "everyone" });
 
-client.login(process.env.BOT_TOKEN);
+client.login(TOKEN);
 client.commands = new Collection();
 client.prefix = PREFIX;
 client.queue = new Map();
