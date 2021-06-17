@@ -12,10 +12,13 @@ And many more you can change!
 
 It stays 24/7 in VC and , it has hindi commands , reaction controle and many more !
 if you having any errors or problems then feel free to join our support server ! **[Click me to join](https://discord.gg/Bwa6u3D8ep)** join it and ask your questions ! 
-
+<br>
+<br be>
+Join My server For help about setup **[Click me to join](https://dsc.gg/cwf)**
 
 -- if you want a Premium bot for free then invite this - *[Click me to invite](https://discord.com/api/oauth2/authorize?client_id=774642458889814066&permissions=8&scope=bot)* 
  it an bot with all effects like 3d night core and etc all for free , it is 24/7 in VC an Verified discord bot ! it's my own bot ! 
 
-Thanks..
-NIRMAL ! 
+Bot Made by SUYASH™#4395
+<br>
+Bot Modified By Frazix#0001
